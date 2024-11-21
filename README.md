@@ -1,2 +1,2 @@
 # Learning-Java
-Programming
+Learning how to program
